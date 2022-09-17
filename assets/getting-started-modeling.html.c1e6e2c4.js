@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ba2d632e","path":"/stacks/agnostic/getting-started-modeling.html","title":"Data Modeling","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1652390840000},"filePathRelative":"stacks/agnostic/getting-started-modeling.md"}');export{t as data};
